@@ -1,3 +1,20 @@
+# Latest revision: object motion V2
+
+This revision rebuilds visible environmental motion around the scene objects: source stars twinkle independently, cloud layers move over fixed terrain, leaves and tree crowns flex from their stems, rain falls at different depths, water impacts/rivulets move on exposed surfaces, and engine/reactor effects flow and emit from fixed sources. The approved derelict v4 hallway is unchanged. NPC identities and clue text remain fixed and readable.
+
+- [Download the revised 115-slide PowerPoint](FAR_HORIZON_COMPLETE_IMMERSIVE_STORYBOOK_V2.pptx?raw=true)
+- [Watch the 72-second motion-focused review](FAR_HORIZON_MOTION_REVIEW_V2.mp4?raw=true)
+- [Watch representative slides with NPCs and clues](FAR_HORIZON_COMPLETE_PREVIEW_V2.mp4?raw=true)
+- [Static PDF fallback — no animation](FAR_HORIZON_STATIC_FALLBACK_V2.pdf?raw=true)
+- [Teacher guide](TEACHER_GUIDE_V2.md)
+- [Validation summary and per-environment motion coverage](VALIDATION_SUMMARY_V2.json)
+
+All 115 slides contain embedded offline video with automatic start, indefinite loop and manual slide advancement. Media decoding, package relationships and office-rendered layouts passed checks. Actual Microsoft desktop PowerPoint playback has not been tested in this environment.
+
+---
+
+## Previous revision
+
 # Far Horizon immersive storybook
 
 115 slides across all 12 sessions. Every slide has an embedded, silent motion background. The approved derelict v4 loop is preserved, with location-specific treatment elsewhere. Canonical NPC portraits and the supplied enemy artwork are retained; clues remain editable native PowerPoint objects.

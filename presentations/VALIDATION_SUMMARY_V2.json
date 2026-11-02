@@ -1,0 +1,215 @@
+{
+  "revision": "object_motion_v2",
+  "slides": 115,
+  "sessions": 12,
+  "slides_with_embedded_video": 115,
+  "unique_embedded_video_count": 21,
+  "office_rendered_pages": 115,
+  "package_errors": 0,
+  "layout_warnings": 0,
+  "all_video_decodes_passed": true,
+  "desktop_powerpoint_playback_tested": false,
+  "approved_derelict_unchanged": true,
+  "environments": [
+    {
+      "environment": "aftermath",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "archive",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "boarding",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 1,
+      "cloud_speed_px_per_second": 3.4,
+      "foliage_layers": 0,
+      "rain_scope": "light background drizzle in exterior terminal sky",
+      "source_effects": "none"
+    },
+    {
+      "environment": "bridge",
+      "stars": 51,
+      "fixture_cores": 28,
+      "cloud_layers": 2,
+      "cloud_speed_px_per_second": 2.1,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "bridge_deep_space",
+      "stars": 44,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "colony",
+      "stars": 0,
+      "fixture_cores": 18,
+      "cloud_layers": 1,
+      "cloud_speed_px_per_second": 2.6,
+      "foliage_layers": 10,
+      "rain_scope": "outdoor colony: depth-separated rain plus wet-floor impacts",
+      "source_effects": "none"
+    },
+    {
+      "environment": "comms",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "derelict_exterior",
+      "stars": 111,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "final_anomaly",
+      "stars": 120,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "finale",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "greenhouse",
+      "stars": 0,
+      "fixture_cores": 18,
+      "cloud_layers": 1,
+      "cloud_speed_px_per_second": 1.6,
+      "foliage_layers": 5,
+      "rain_scope": "rain behind greenhouse roof glazing, with indoor plants occluding it",
+      "source_effects": "none"
+    },
+    {
+      "environment": "habitation",
+      "stars": 3,
+      "fixture_cores": 18,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 3,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "hub",
+      "stars": 0,
+      "fixture_cores": 18,
+      "cloud_layers": 1,
+      "cloud_speed_px_per_second": 2.2,
+      "foliage_layers": 5,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "lab",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "launch",
+      "stars": 3,
+      "fixture_cores": 28,
+      "cloud_layers": 2,
+      "cloud_speed_px_per_second": 3.0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "continuously replenished tapered nozzle exhaust with downward-flowing tongues and reflected thrust glow"
+    },
+    {
+      "environment": "observation",
+      "stars": 120,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "orbit",
+      "stars": 10,
+      "fixture_cores": 0,
+      "cloud_layers": 2,
+      "cloud_speed_px_per_second": 2.8,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "reactor",
+      "stars": 0,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 0,
+      "rain_scope": "none",
+      "source_effects": "ballistic emitted sparks and continuously curling pale vapor, with reflected welding glow"
+    },
+    {
+      "environment": "recreation",
+      "stars": 32,
+      "fixture_cores": 28,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 4,
+      "rain_scope": "none",
+      "source_effects": "none"
+    },
+    {
+      "environment": "school",
+      "stars": 0,
+      "fixture_cores": 0,
+      "cloud_layers": 0,
+      "cloud_speed_px_per_second": 0,
+      "foliage_layers": 2,
+      "rain_scope": "none",
+      "source_effects": "none"
+    }
+  ]
+}
