@@ -1,0 +1,79 @@
+{
+  "revision": 5,
+  "scope": "Rain and dripping-water update to the approved revision 4.",
+  "status": "pass",
+  "pptx": {
+    "file": "FAR_HORIZON_IMMERSIVE_REVISION5.pptx",
+    "bytes": 100769690,
+    "sha256": "39944aadb674c66322b0058a304ff4d5469d90a25d844f2a9459c2526d4fa3ac",
+    "slides": 654,
+    "main_story_slides": 128,
+    "embedded_movies": 81,
+    "changed_parts": [
+      "ppt/media/image1.jpg",
+      "ppt/media/media1.mp4",
+      "ppt/media/image57.jpg",
+      "ppt/media/media41.mp4",
+      "ppt/media/image58.jpg",
+      "ppt/media/media42.mp4"
+    ],
+    "unchanged_xml_and_relationship_parts": 2653,
+    "story_order_layout_clues_controls_custom_shows_and_slide_timings_byte_identical": true,
+    "approved_rats_hallway_video_byte_identical": true,
+    "package_crc_and_relationship_checks": "pass",
+    "structural_errors": 0,
+    "structural_warnings": 0
+  },
+  "weather": [
+    {
+      "scene": "Greenhouse",
+      "main_slide": 97,
+      "all_slide_views": [
+        97,
+        139,
+        181,
+        223,
+        265
+      ],
+      "change": "Rain on exterior glazing, moving rivulets, two small source-attached drips and water impacts; existing foliage and light motion retained."
+    },
+    {
+      "scene": "Colony hub",
+      "main_slide": 96,
+      "all_slide_views": [
+        96,
+        138,
+        180,
+        222,
+        264
+      ],
+      "change": "Exterior rain through glazing, glass runoff and small localized drips; interior architecture and people remain fixed."
+    },
+    {
+      "scene": "Boarding",
+      "main_slides": [
+        1,
+        2,
+        3
+      ],
+      "change": "Restored light drizzle in the protected exposed-sky region; ship, terminal and people remain fixed."
+    },
+    {
+      "scene": "Colony exterior",
+      "main_slides": [
+        94,
+        95
+      ],
+      "repeated_slide_views": 30,
+      "change": "Existing two rain layers and wet-ground impacts reviewed and retained unchanged."
+    }
+  ],
+  "audit_scope": "Reviewed 27 environment backgrounds and six enemy illustrations; checked temporal frames and generation layers for weather candidates. Snow at K-17 remains snow; dry school and ship interiors retain their existing atmosphere.",
+  "media_validation": {
+    "updated_movies": "Three silent 12-second 1280x720, 24 fps H.264/yuv420p embedded loops.",
+    "full_decode": "All three updated movies passed; remaining 78 embedded movies are byte-identical to previously decoded revision 4 media.",
+    "review": "32-second silent H.264 MP4 showing greenhouse, colony hub, boarding and colony exterior."
+  },
+  "actual_microsoft_desktop_powerpoint_playback_tested": false,
+  "notes": "Editing view shows still posters. Use Slide Show for embedded motion and native teacher controls. The MP4 preview plays without PowerPoint."
+}

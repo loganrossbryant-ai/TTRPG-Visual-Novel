@@ -1,4 +1,17 @@
-# Latest revision: immersive revision 4
+# Latest revision: immersive revision 5 — rain update
+
+The approved order, format and teacher controls are preserved. The greenhouse now has rain on its glazing, moving rivulets and small drips with impacts. This pass also restores boarding drizzle and adds rain through the colony hub glazing. Existing colony exterior rain was checked and retained. The approved rats hallway is unchanged.
+
+- [Download revision 5 PowerPoint](FAR_HORIZON_IMMERSIVE_REVISION5.pptx?raw=true)
+- [Watch the 32-second weather preview without PowerPoint](FAR_HORIZON_RAIN_REVIEW_V5.mp4?raw=true)
+- [Teacher guide and controls](TEACHER_GUIDE_REVISION5.md)
+- [Validation summary](VALIDATION_SUMMARY_REVISION5.json)
+
+All media is embedded, silent and offline. Use Slide Show for animation and native controls; slide advancement remains manual. Actual Microsoft desktop PowerPoint playback still needs a classroom-machine check. Revision 4's PDF and full preview remain useful references for the unchanged story and layout.
+
+---
+
+## Previous revision: immersive revision 4
 
 The approved main story remains 128 slides in the same order. Revision 4 corrects the evidence, clock experiment and enemy timing; improves portraits and environment/enemy motion; and adds direct scene-map returns, manual reveals and selectable consequence/ending paths. The default native PowerPoint custom show keeps the main 128-slide route. Additional state and map pages open through the teacher controls.
 
