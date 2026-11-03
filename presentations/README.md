@@ -1,4 +1,18 @@
-# Latest revision: immersive revision 3
+# Latest revision: immersive revision 4
+
+The approved main story remains 128 slides in the same order. Revision 4 corrects the evidence, clock experiment and enemy timing; improves portraits and environment/enemy motion; and adds direct scene-map returns, manual reveals and selectable consequence/ending paths. The default native PowerPoint custom show keeps the main 128-slide route. Additional state and map pages open through the teacher controls.
+
+- [Download revision 4 PowerPoint](FAR_HORIZON_IMMERSIVE_REVISION4.pptx?raw=true)
+- [Watch the 2:45 preview without PowerPoint](FAR_HORIZON_REVISION4_PREVIEW.mp4?raw=true)
+- [Teacher guide and controls](TEACHER_GUIDE_REVISION4.md)
+- [Static reading reference](FAR_HORIZON_STATIC_REFERENCE_REVISION4.pdf?raw=true)
+- [Validation summary](VALIDATION_SUMMARY_REVISION4.json)
+
+Use desktop PowerPoint in Slide Show mode for the complete native controls. Media is embedded, silent and offline; advancement remains manual. The approved rats hallway is unchanged. Actual Microsoft desktop PowerPoint playback still needs a classroom-machine check.
+
+---
+
+## Previous revision: immersive revision 3
 
 128 story slides across all 12 sessions, plus a 43-slide linked map appendix. This revision restores the requested scenes, physical evidence props, original NPC identities, full enemy tactics and real visual maps. Media is embedded for offline use; slide advancement is manual.
 

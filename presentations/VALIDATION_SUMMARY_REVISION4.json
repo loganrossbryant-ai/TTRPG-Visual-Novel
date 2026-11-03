@@ -1,0 +1,449 @@
+{
+  "status": "pass",
+  "input_sha256": "2125ec84b81d6eac0734bf75b79e977ec3b624300f75dc70c05c002ab19887b7",
+  "input_bytes": 100980003,
+  "slide_count": 654,
+  "slides_with_video": 654,
+  "unique_embedded_video_count": 81,
+  "desktop_powerpoint_playback_tested": false,
+  "errors": [],
+  "warnings": [],
+  "main_story_slides": 128,
+  "main_order_unchanged": true,
+  "supplementary_state_and_map_pages": 526,
+  "default_native_custom_show_main_only": true,
+  "all_media_embedded": true,
+  "full_decode_verified_by_identical_media_hashes": true,
+  "full_decode_count": 81,
+  "all_media_h264_yuv420p": true,
+  "office_reference_pages": 219,
+  "office_reference_blank_pages": [],
+  "office_reference_text_outside_pages": [],
+  "story_navigation_controls": {
+    "status": "pass",
+    "errors": [],
+    "checks": {
+      "approved_main_order_unchanged": true,
+      "default_show_selected": true,
+      "no_macros": true,
+      "approved_derelict_embedded_byte_identical": true,
+      "packet_has_one_time_native_entrance": true,
+      "packet_hold_has_no_retyping": true,
+      "first_seed_manual_once": true,
+      "second_seed_manual_once": true
+    },
+    "main_story_slides": 128,
+    "total_slides": 654,
+    "direct_scene_map_roundtrips": [
+      {
+        "scene": 3,
+        "map": 493,
+        "passed": true
+      },
+      {
+        "scene": 7,
+        "map": 500,
+        "passed": true
+      },
+      {
+        "scene": 8,
+        "map": 507,
+        "passed": true
+      },
+      {
+        "scene": 9,
+        "map": 508,
+        "passed": true
+      },
+      {
+        "scene": 14,
+        "map": 509,
+        "passed": true
+      },
+      {
+        "scene": 16,
+        "map": 510,
+        "passed": true
+      },
+      {
+        "scene": 21,
+        "map": 511,
+        "passed": true
+      },
+      {
+        "scene": 24,
+        "map": 512,
+        "passed": true
+      },
+      {
+        "scene": 40,
+        "map": 513,
+        "passed": true
+      },
+      {
+        "scene": 45,
+        "map": 514,
+        "passed": true
+      },
+      {
+        "scene": 47,
+        "map": 517,
+        "passed": true
+      },
+      {
+        "scene": 48,
+        "map": 520,
+        "passed": true
+      },
+      {
+        "scene": 51,
+        "map": 523,
+        "passed": true
+      },
+      {
+        "scene": 57,
+        "map": 526,
+        "passed": true
+      },
+      {
+        "scene": 59,
+        "map": 529,
+        "passed": true
+      },
+      {
+        "scene": 67,
+        "map": 532,
+        "passed": true
+      },
+      {
+        "scene": 75,
+        "map": 533,
+        "passed": true
+      },
+      {
+        "scene": 79,
+        "map": 534,
+        "passed": true
+      },
+      {
+        "scene": 87,
+        "map": 535,
+        "passed": true
+      },
+      {
+        "scene": 89,
+        "map": 536,
+        "passed": true
+      },
+      {
+        "scene": 92,
+        "map": 539,
+        "passed": true
+      },
+      {
+        "scene": 95,
+        "map": 542,
+        "passed": true
+      },
+      {
+        "scene": 96,
+        "map": 545,
+        "passed": true
+      },
+      {
+        "scene": 97,
+        "map": 548,
+        "passed": true
+      },
+      {
+        "scene": 98,
+        "map": 552,
+        "passed": true
+      },
+      {
+        "scene": 99,
+        "map": 556,
+        "passed": true
+      },
+      {
+        "scene": 116,
+        "map": 557,
+        "passed": true
+      },
+      {
+        "scene": 129,
+        "map": 559,
+        "passed": true
+      },
+      {
+        "scene": 131,
+        "map": 560,
+        "passed": true
+      },
+      {
+        "scene": 134,
+        "map": 563,
+        "passed": true
+      },
+      {
+        "scene": 137,
+        "map": 566,
+        "passed": true
+      },
+      {
+        "scene": 138,
+        "map": 569,
+        "passed": true
+      },
+      {
+        "scene": 139,
+        "map": 572,
+        "passed": true
+      },
+      {
+        "scene": 140,
+        "map": 576,
+        "passed": true
+      },
+      {
+        "scene": 141,
+        "map": 580,
+        "passed": true
+      },
+      {
+        "scene": 158,
+        "map": 581,
+        "passed": true
+      },
+      {
+        "scene": 171,
+        "map": 583,
+        "passed": true
+      },
+      {
+        "scene": 173,
+        "map": 584,
+        "passed": true
+      },
+      {
+        "scene": 176,
+        "map": 587,
+        "passed": true
+      },
+      {
+        "scene": 179,
+        "map": 590,
+        "passed": true
+      },
+      {
+        "scene": 180,
+        "map": 593,
+        "passed": true
+      },
+      {
+        "scene": 181,
+        "map": 596,
+        "passed": true
+      },
+      {
+        "scene": 182,
+        "map": 600,
+        "passed": true
+      },
+      {
+        "scene": 183,
+        "map": 604,
+        "passed": true
+      },
+      {
+        "scene": 200,
+        "map": 605,
+        "passed": true
+      },
+      {
+        "scene": 213,
+        "map": 607,
+        "passed": true
+      },
+      {
+        "scene": 215,
+        "map": 608,
+        "passed": true
+      },
+      {
+        "scene": 218,
+        "map": 611,
+        "passed": true
+      },
+      {
+        "scene": 221,
+        "map": 614,
+        "passed": true
+      },
+      {
+        "scene": 222,
+        "map": 617,
+        "passed": true
+      },
+      {
+        "scene": 223,
+        "map": 620,
+        "passed": true
+      },
+      {
+        "scene": 224,
+        "map": 624,
+        "passed": true
+      },
+      {
+        "scene": 225,
+        "map": 628,
+        "passed": true
+      },
+      {
+        "scene": 242,
+        "map": 629,
+        "passed": true
+      },
+      {
+        "scene": 255,
+        "map": 631,
+        "passed": true
+      },
+      {
+        "scene": 257,
+        "map": 632,
+        "passed": true
+      },
+      {
+        "scene": 260,
+        "map": 635,
+        "passed": true
+      },
+      {
+        "scene": 263,
+        "map": 638,
+        "passed": true
+      },
+      {
+        "scene": 264,
+        "map": 641,
+        "passed": true
+      },
+      {
+        "scene": 265,
+        "map": 644,
+        "passed": true
+      },
+      {
+        "scene": 266,
+        "map": 648,
+        "passed": true
+      },
+      {
+        "scene": 267,
+        "map": 652,
+        "passed": true
+      },
+      {
+        "scene": 284,
+        "map": 653,
+        "passed": true
+      }
+    ],
+    "native_custom_shows": 135,
+    "native_expression_cards": 8,
+    "events": [
+      {
+        "slide": 10,
+        "kind": "manual_lensing_event",
+        "key": "anomaly_seed1",
+        "movie_shape": 8,
+        "button_shape": 9,
+        "duration_ms": 4000
+      },
+      {
+        "slide": 17,
+        "kind": "round3_reveal",
+        "button_shape": 25,
+        "target_shapes": [
+          23,
+          24
+        ]
+      },
+      {
+        "slide": 33,
+        "kind": "manual_lensing_event",
+        "key": "anomaly_seed3",
+        "movie_shape": 4,
+        "button_shape": 5,
+        "duration_ms": 4000
+      },
+      {
+        "slide": 37,
+        "kind": "one_time_transmission",
+        "shapes": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "slide": 42,
+        "kind": "one_time_transmission",
+        "shapes": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    ],
+    "desktop_powerpoint_playback_tested": false
+  },
+  "preview": {
+    "scenes": 32,
+    "seconds": 165,
+    "includes_demonstrated_native_reveal_timings": true,
+    "selected_slides": [
+      6,
+      10,
+      16,
+      17,
+      18,
+      20,
+      26,
+      27,
+      29,
+      33,
+      37,
+      48,
+      57,
+      58,
+      60,
+      63,
+      69,
+      74,
+      83,
+      87,
+      98,
+      99,
+      102,
+      103,
+      104,
+      116,
+      117,
+      298,
+      304,
+      300,
+      450,
+      458
+    ]
+  },
+  "practical_limit": "Native interaction and actual slideshow playback still require a desktop PowerPoint classroom-machine check. Current cost must be reselected when a later lesson resumes."
+}
