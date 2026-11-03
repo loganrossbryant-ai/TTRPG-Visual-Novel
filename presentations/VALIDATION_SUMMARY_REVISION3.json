@@ -1,0 +1,168 @@
+{
+  "status": "pass",
+  "input_sha256": "9166279e9a17905d32791a84935681f721c3ae04971d07eacbcca0006e01a847",
+  "input_bytes": 101318188,
+  "slide_count": 171,
+  "slides_with_video": 171,
+  "unique_embedded_video_count": 74,
+  "static_slides": [],
+  "desktop_powerpoint_playback_tested": false,
+  "errors": [],
+  "warnings": [],
+  "story_slide_count": 128,
+  "linked_map_appendix_count": 43,
+  "map_video_resolution": [
+    1920,
+    1080
+  ],
+  "all_media_embedded": true,
+  "all_embedded_videos_fully_decoded": true,
+  "all_embedded_video_h264_yuv420p": true,
+  "office_rendered_pages": 171,
+  "empty_pages": [],
+  "rendered_text_outside_pages": [],
+  "story_and_navigation": {
+    "status": "pass",
+    "errors": [],
+    "required_beats": {
+      "Crew argument": 14,
+      "Malfunctioning drone": 16,
+      "Runaway maintenance units": 17,
+      "Restricted access door": 21,
+      "Anomaly data": 26,
+      "Unsynchronized clocks": 27,
+      "Biometric monitor": 29,
+      "Incoming transmission": 37,
+      "Adult reaction": 40,
+      "Derelict archive": 57,
+      "Crew evidence pull": 59,
+      "NAME MATCH": 64,
+      "Adult confrontation": 75,
+      "System priority": 83,
+      "Aftermath": 87,
+      "Impossible class photo": 102,
+      "The debate": 120,
+      "K-17 outpost": 116,
+      "K-17 Fracture Entity": 117,
+      "Final crew log": 126
+    },
+    "session_map_round_trips": [
+      {
+        "session": 1,
+        "start": 1,
+        "map": 160,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 2,
+        "start": 13,
+        "map": 161,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 3,
+        "start": 23,
+        "map": 162,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 4,
+        "start": 35,
+        "map": 163,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 5,
+        "start": 44,
+        "map": 164,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 6,
+        "start": 56,
+        "map": 165,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 7,
+        "start": 66,
+        "map": 166,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 8,
+        "start": 78,
+        "map": 167,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 9,
+        "start": 88,
+        "map": 168,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 10,
+        "start": 94,
+        "map": 169,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 11,
+        "start": 108,
+        "map": 170,
+        "forward": true,
+        "return": true
+      },
+      {
+        "session": 12,
+        "start": 123,
+        "map": 171,
+        "forward": true,
+        "return": true
+      }
+    ],
+    "boarding_order": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "approved_derelict_byte_identical": true,
+    "story_slides": 128,
+    "map_appendix_slides": 43,
+    "desktop_powerpoint_tested": false
+  },
+  "source_geometry_motion_qc": {
+    "boarding": {
+      "cloud_only_outside_matte_max_pixel_delta": 0.0,
+      "mask_pixel_count": 66807,
+      "cloud_only_inside_mean_delta": 5.856,
+      "hull_and_people_displacement_pixels": 0
+    },
+    "observation": {
+      "texture_only_outside_matte_max_delta": 0.0,
+      "texture_only_inside_mean_delta": 16.891,
+      "aperture_and_frames_displacement_pixels": 0
+    },
+    "final_anomaly": {
+      "texture_only_outside_matte_max_delta": 0.0,
+      "texture_only_inside_mean_delta": 20.256,
+      "aperture_and_frames_displacement_pixels": 0
+    }
+  },
+  "preview_seconds": 168,
+  "preview_scenes": 33,
+  "poster_fallback": "Separate static full-slide JPEG retained underneath each movie."
+}

@@ -1,4 +1,18 @@
-# Latest revision: object motion V2
+# Latest revision: immersive revision 3
+
+128 story slides across all 12 sessions, plus a 43-slide linked map appendix. This revision restores the requested scenes, physical evidence props, original NPC identities, full enemy tactics and real visual maps. Media is embedded for offline use; slide advancement is manual.
+
+- [Download the revised PowerPoint](FAR_HORIZON_IMMERSIVE_REVISION3.pptx?raw=true)
+- [Watch the 2:48 animated preview without PowerPoint](FAR_HORIZON_REVISION3_PREVIEW.mp4?raw=true) — 33 scenes, including later campaign reveals.
+- [Static PDF reference, including map appendix](FAR_HORIZON_STATIC_FALLBACK_REVISION3.pdf?raw=true)
+- [Teacher guide, session navigation and previous-to-revised slide numbers](TEACHER_GUIDE_REVISION3.md)
+- [Validation summary](VALIDATION_SUMMARY_REVISION3.json)
+
+Start **Slide Show** to see the animations. Each session opening has a bottom-right **MAP** button; the map has **RETURN TO SESSION** and atlas/detail navigation. The map appendix is hidden from ordinary linear advancement. Native map labels stay sharp when enlarged; restored map textures are illustrative and have finite raster detail. The approved rats hallway is unchanged. Actual Microsoft desktop PowerPoint playback still requires a classroom-machine check.
+
+---
+
+## Previous revision: object motion V2
 
 This revision rebuilds visible environmental motion around the scene objects: source stars twinkle independently, cloud layers move over fixed terrain, leaves and tree crowns flex from their stems, rain falls at different depths, water impacts/rivulets move on exposed surfaces, and engine/reactor effects flow and emit from fixed sources. The approved derelict v4 hallway is unchanged. NPC identities and clue text remain fixed and readable.
 
