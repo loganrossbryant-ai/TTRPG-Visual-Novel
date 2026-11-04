@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "master_slides": 167,
+  "unchanged_slide_order_links_and_native_timing": true,
+  "changed_story_slides": [
+    53,
+    97,
+    100
+  ],
+  "readable_followup_quote_slide101_unchanged": true,
+  "unrelated_media_including_rats_hallway_unchanged": true,
+  "new_paper_assets_have_alpha_transparency": true,
+  "greenhouse_full_decode_passed": true,
+  "preview_full_decode_passed": true,
+  "actual_microsoft_powerpoint_browser_or_desktop_playback_tested": false,
+  "checks": {
+    "master": {
+      "status": "pass",
+      "slides": 167,
+      "errors": 0,
+      "warnings": 0
+    },
+    "session05": {
+      "status": "pass",
+      "slides": 15,
+      "errors": 0,
+      "warnings": 0
+    },
+    "session10": {
+      "status": "pass",
+      "slides": 33,
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  "published_at_validation_time": false,
+  "full_quality_file": {
+    "filename": "FAR_HORIZON_COMPLETE_UPDATED.pptx",
+    "bytes": 104536965,
+    "sha256": "103bb7df94c3df27f3e2f336712435fa491b83020c3a5e873c8b34f3a019c5aa",
+    "download_recompression_applied": false
+  }
+}

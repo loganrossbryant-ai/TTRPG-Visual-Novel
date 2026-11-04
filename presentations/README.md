@@ -1,4 +1,16 @@
-# Latest revision: immersive revision 5 — rain update
+# Latest complete deck — 167 slides
+
+The complete updated campaign is one standard PowerPoint with all media embedded: **104.5 MB**, at its original quality. It contains 128 story slides, six optional ending pages and one 33-page map appendix. The duplicated story routes have been removed. This version includes stronger greenhouse rain and realistic physical HOME drawing props.
+
+- [Download the entire updated PowerPoint](FAR_HORIZON_COMPLETE_UPDATED.pptx?raw=true)
+- [Download instructions](COMPLETE_DECK_DOWNLOAD.md)
+- [Validation summary](FAR_HORIZON_COMPLETE_UPDATED_VALIDATION.json)
+
+Open the download in Safari, Chrome or another browser to bypass the chat's 40 MB download limit. The file is complete; no joining or importing is needed. Media is embedded for offline use, advancement is manual, and editing view shows still posters. Use Slide Show for motion; actual PowerPoint browser playback remains unverified.
+
+---
+
+## Previous revision: immersive revision 5 — rain update
 
 The approved order, format and teacher controls are preserved. The greenhouse now has rain on its glazing, moving rivulets and small drips with impacts. This pass also restores boarding drizzle and adds rain through the colony hub glazing. Existing colony exterior rain was checked and retained. The approved rats hallway is unchanged.
 
